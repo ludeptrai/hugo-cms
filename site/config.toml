@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://luublog.cf"
+baseURL = "https://luublog.cf"
 languageCode = "vi-vn"
 summaryLength = "10"
 theme = "kross"
