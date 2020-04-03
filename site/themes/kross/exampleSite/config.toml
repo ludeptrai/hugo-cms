@@ -1,8 +1,8 @@
 # default configuration
-baseURL = "http://luublog.cf"
-languageCode = "vi-vn"
+baseURL = "http://examplesite.com"
+languageCode = "en-us"
 summaryLength = "10"
-theme = "kross"
+theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 
 # css plugins
@@ -55,10 +55,10 @@ logo = "images/logo.png"
 theme_color = "#41228e"
 # contact info
 phone = "+880 2544 658 256"
-email = "luuphan2810@gmail.com"
-address = "  :))))) "
+email = "steve.fruits@email.com"
+address = "125/A, CA Commercial Area, California, USA"
 # meta description
-author = "Duy Lưu"
+author = "Johnathan Smith"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
